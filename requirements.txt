@@ -1,0 +1,10 @@
+h5py
+matplotlib
+numpy
+opencv_python
+Pillow
+Requests
+streamlit
+tensorflow
+tensorflow_hub
+tensorflow_intel
