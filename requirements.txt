@@ -8,4 +8,4 @@ streamlit
 tensorflow
 tensorflow_hub
 tensorflow_intel
-protobuf
+protobuf==3.19.0
