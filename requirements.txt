@@ -8,3 +8,4 @@ streamlit
 tensorflow
 tensorflow_hub
 tensorflow_intel
+protobuf
