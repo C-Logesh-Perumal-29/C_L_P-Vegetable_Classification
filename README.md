@@ -10,43 +10,43 @@ Vegetable Classification is a critical process in Agriculture and Food Processin
 
    •	**TensorFlow:** 
    
-         A powerful open-source machine learning library used for building and training neural network models. 
+   > A powerful open-source machine learning library used for building and training neural network models. 
    
    •	**Streamlit:** 
    
-         A Python library for creating web applications with interactive user interface.
+   > A Python library for creating web applications with interactive user interface.
    
    •	**PIL (Pillow):**
    
-         Python Imaging Library, used for opening, manipulating, and saving various image file formats.
+   > Python Imaging Library, used for opening, manipulating, and saving various image file formats.
    
    •	**Matplotlib:** 
    
-         A plotting library for creating static data visualizations in Python.
+   > A plotting library for creating static data visualizations in Python.
    
    •	**NumPy:** 
    
-         Essential for numerical operations, especially in handling image data arrays.
+   > Essential for numerical operations, especially in handling image data arrays.
    
    •	**TensorFlow Hub:** 
    
-         A repository of pre-trained machine learning models, providing modules and tools for building ML applications.
+   > A repository of pre-trained machine learning models, providing modules and tools for building ML applications.
 
 ## Steps 
 
 1.	Clone the repository to your local machine.
 
-  	•	git clone <repository_url>  <br>
+  	•	`git clone <repository_url>`  <br>
    
-     •	cd vegetable-classification 
+     •	`cd vegetable-classification` 
   	
 2.	Install the required dependencies.
 
-  	•	pip install -r requirements.txt
+  	•	`pip install -r requirements.txt`
   	
 3.	Run the Streamlit application.
 
-  	•	streamlit run app.py
+  	•	`streamlit run app.py`
   	
 4.	Visit http://localhost:8501 in your web browser to interact with the vegetable classification application.
 
