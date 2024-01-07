@@ -53,3 +53,7 @@ Vegetable Classification is a critical process in Agriculture and Food Processin
 ## Live Project Link
 
 https://c-l-p-vegetable-classification.onrender.com/
+
+## Credits:
+
+  > 👉 **©️ Credits** goes to the **owner** of `all images`. _Thank You_ for all the _**Image Creaters**_ to `done this amazing project` 🤝...
