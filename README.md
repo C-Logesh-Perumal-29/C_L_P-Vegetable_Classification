@@ -50,10 +50,14 @@ Vegetable Classification is a critical process in Agriculture and Food Processin
   	
 4.	Visit http://localhost:8501 in your web browser to interact with the vegetable classification application.
 
+## Functionality Spotlight
+
+   ![Vegetable Classification](https://github.com/C-Logesh-Perumal-29/C_L_P-Vegetable_Classification/assets/125385633/70e5bb66-2834-4187-b264-2b2d0120681a)
+
 ## Live Project Link
 
 https://c-l-p-vegetable-classification.onrender.com/
 
-## Credits:
+## Credits
 
   > 👉 **©️ Credits** goes to the **owner** of `all images`. _Thank You_🤝...
