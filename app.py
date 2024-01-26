@@ -117,8 +117,8 @@ if Options == "Vegetable Classification":
                     st.pyplot(figure)
                     st.success(result) 
                                              
-            def predict_class(image):       
-                classifier_model = tf.keras.models.load_model("D:\Project_Web\Vegetable Classification\VC Model.h5")
+            def predict_class(image):       # D:\Project_Web\Vegetable Classification\
+                classifier_model = tf.keras.models.load_model("VC Model.h5")
                 shape = ((228,228,3))
                 tf.keras.Sequential([hub.KerasLayer(classifier_model,input_shape=shape)])
                 test_image = image.resize((228,228))
@@ -160,7 +160,7 @@ if Options == "Vegetable Classification":
                     st.success(result)
                     
             def predict_class(image):
-                classifier_model = tf.keras.models.load_model("D:\Project_Web\Vegetable Classification\VC Model.h5")
+                classifier_model = tf.keras.models.load_model("VC Model.h5")
                 shape = ((228,228,3))
                 tf.keras.Sequential([hub.KerasLayer(classifier_model,input_shape=shape)])
                 test_image = image.resize((228,228))
